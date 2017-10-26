@@ -8,4 +8,4 @@ The customer segments data is included as a selection of 440 data points collect
 
 -Preprocessing method: Log-transformation;MinMaxScalar;PCA
 
--Model:Gaussian Mixture Model
+-Model:Choose between K-means and Gaussian Mixture Model
